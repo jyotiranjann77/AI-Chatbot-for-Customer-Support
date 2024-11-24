@@ -8,6 +8,7 @@ Key Features:
 Built using Hugging Face Transformers for text generation.
 Gradio for creating an easy-to-use interactive interface.
 Real-time customer support via chatbot interactions.
+
 Tools and Technologies:
 
 Python: The core programming language used in this project.
